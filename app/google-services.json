@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556634072409",
+    "firebase_url": "https://chatsgu-a2cfd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatsgu-a2cfd",
+    "storage_bucket": "chatsgu-a2cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556634072409:android:72a75fb6796f60cc179848",
+        "android_client_info": {
+          "package_name": "com.example.chatsgu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556634072409-qgq31o57r1g5gt5d4vvb2ce3rbh8los2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatsgu",
+            "certificate_hash": "714fafae0c17858ff48edaa55650a67e2e62aabf"
+          }
+        },
+        {
+          "client_id": "556634072409-0lcfrjio3b2u86d298030ob8j2bvnrh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43SEWNlfahXcPYVDwp471KhDdjoiScT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556634072409-0lcfrjio3b2u86d298030ob8j2bvnrh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
